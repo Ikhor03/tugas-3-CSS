@@ -1,0 +1,24 @@
+p{
+    background-color: grey;
+}
+
+.pSatu{
+    background-color: rgb(218, 106, 21);
+}
+
+.pDua{
+    background-color: blue;
+    color:white;
+}
+
+.pTiga{
+    font-size: x-large;
+    font-family:monospace;
+    background-color: white;
+    outline: 1px solid grey;
+}
+
+.pEmpat{
+    font-weight: bold;
+    font-size:larger;
+}
